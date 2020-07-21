@@ -1,59 +1,69 @@
 - id: 2
-  title: Tic tac toe
-  url: https://tic-or-treat.herokuapp.com/
-  github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
-  description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
+  title: Santander
+  # url: https://tic-or-treat.herokuapp.com/
+  # github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
+  description: Mortgage Project.
+  ## responsibilities: Working as a Lead Developer in a typical banking Mortgage project, i was involved in requirement gathering, preparing technical specs, impact analysis, development, testing & code deployment activity.
+  ##                   Worked on building several Web Services on Mainframes to interact with front end Java application.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark
-                  javascript-plain,
-                  react-original,
-                  ruby-plain,
-                  rails-plain,
-                  postgresql-plain,
-                  heroku-original
+                  COBOL,
+                  Web Services,
+                  JCL,
+                  IMS-DB/DB1,
+                  JSON,
+                  Postman,
+                  JAVASCRIPT,
+                  CICS
                 ]
   cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
-  images: [
-    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
-  ]
+  # images: [
+  #   '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
+  #   '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
+  #   '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+  # ]
 
 - id: 3
-  title: Stack Overflow Clone
-  url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+  title: Liberty Mutual Insurance
+  # url: https://dbc-hackoverflow.herokuapp.com/
+  # github_url: https://github.com/wvicioso/hackoverflow
+  description: This is a Auto (Property & Casualty - P&C), Home & Fire Insurance Project.
+  ## responsibilities: Working as a Lead Developer, i was involved in requirement gathering, preparing technical specs, impact analysis, development, testing & code deployment activity.
+  ##                   Worked on a project to include a new HOME Coverage 'Water Seepage' in multiple states, involved in coding several rating modules, upload programs, download programs, screen
+  ##                   programs.
+  ##                   Also involved in Production Support activity.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  sinatra-plain,
-                  postgresql-plain,
-                  heroku-original,
-                  materialize-plain
+                  COBOL,
+                  JCL,
+                  DB2,
+                  SQL,
+                  UI/UX
+
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
-  images: [
-    '/assets/images/project_covers/hack-overflow-cover.png'
-  ]
+  # images: [
+  #   '/assets/images/project_covers/hack-overflow-cover.png'
+  # ]
 - id: 4
-  title: ShootThingsGame
-  url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
+  title: Daimler Trucks
+  # url: https://levytsroman.github.io/shootThingsGame/
+  # github_url: https://github.com/LevytsRoman/shootThingsGame
+  description: Legacy Modernization of Mainframe application - Western Star.
+  ## responsibilities: Working as a Sr Developer/SME, i was involved in impact analysis after gathering the requirements & prepared the detail design specification document for the vehicle parts.
+  ##                   Responsible for conducting Weekly Status Meeting, CAB Approvals, Development, Implementation and Testing of the complete business solutions using Mainframe - COBOL, JCL, DB2, SQL, IMS-DB, CICS & Web/ETL technologies. 
+  ##                   Worked on developing the programs & jobs for vehicle engineering bill of materials (BOM), the output of which will be published on Splunk.
+
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
+                  COBOL,
+                  JCL,
+                  SQL,
+                  SPLUNK,
+                  Web Services
                 ]
   cover: /assets/images/project_covers/shoot-things-game-cover.png
-  images: [
-    '/assets/images/project_covers/shoot-things-game-cover.png'
-  ]
-# - name: Tic-tac-toe
+#   images: [
+#     '/assets/images/project_covers/shoot-things-game-cover.png'
+#   ]
+# # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
 #   github_url: https://github.com/LevytsRoman/EngageMe
 #   short_description: >

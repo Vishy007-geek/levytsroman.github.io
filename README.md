@@ -1,4 +1,4 @@
-# levytsroman.github.io
+<!-- # levytsroman.github.io
 Personal portfolio page, aspiring jekyll theme.
 
 # To get started: 
@@ -56,4 +56,4 @@ To update projects modify the ```projects.yml```, you can add your own tags and 
 
 If you want to use the form in the contact page, you'll need to make an account with https://formspree.io/. Then simply update the email in the _config.yml to whatever you used to register.
 
-For more info on how to use jekyll visit https://jekyllrb.com/docs/home/
+For more info on how to use jekyll visit https://jekyllrb.com/docs/home/ -->

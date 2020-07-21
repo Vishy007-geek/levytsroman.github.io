@@ -1,19 +1,19 @@
----
+<!-- ---
 layout: not_homepage
 quote: Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
 author: Pele
----
+--- -->
 
 {% include quote.html quote=page.quote author=page.author %}
 
 <div class="project_list">
-  <h2 class="heading center">Projects and Experiments:</h2>
+  <h2 class="heading center">Client Projects:</h2>
   {% for project in site.data.projects %}
     {% include project_box.html %}
   {% endfor %}
 </div>
 
-<div class="projects-bottom center-align">
+<!-- <div class="projects-bottom center-align">
   <h1 class="heading">Have questions, comments, feedback? Feel free to reach out!</h1>
   <div class="row">
     <div class="col m6 offset-m3 s12">
@@ -27,4 +27,4 @@ author: Pele
       </div>
     </div>
   </div>
-</div>
+</div> -->
