@@ -2,19 +2,19 @@
   title: Santander
   # url: https://tic-or-treat.herokuapp.com/
   # github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
-  description: Mortgage Project.
-  ## responsibilities: Working as a Lead Developer in a typical banking Mortgage project, i was involved in requirement gathering, preparing technical specs, impact analysis, development, testing & code deployment activity.
-  ##                   Worked on building several Web Services on Mainframes to interact with front end Java application.
-  technologies: [
-                  COBOL,
-                  Web Services,
-                  JCL,
-                  IMS-DB/DB1,
-                  JSON,
-                  Postman,
-                  JAVASCRIPT,
-                  CICS
-                ]
+  description: Mortgage Application.
+  responsibilities: Working as a Lead Developer in a typical banking Mortgage project, i was involved in requirement gathering, preparing technical specs, impact analysis, development, testing & code deployment activity.
+                    Worked on building several Web Services on Mainframes to interact with front end Java application.
+  # technologies: [
+  #                 COBOL,
+  #                 Web Services,
+  #                 JCL,
+  #                 IMS-DB/DB1,
+  #                 JSON,
+  #                 Postman,
+  #                 JAVASCRIPT,
+  #                 CICS
+  #               ]
   cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
   # images: [
   #   '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
@@ -27,18 +27,18 @@
   # url: https://dbc-hackoverflow.herokuapp.com/
   # github_url: https://github.com/wvicioso/hackoverflow
   description: This is a Auto (Property & Casualty - P&C), Home & Fire Insurance Project.
-  ## responsibilities: Working as a Lead Developer, i was involved in requirement gathering, preparing technical specs, impact analysis, development, testing & code deployment activity.
-  ##                   Worked on a project to include a new HOME Coverage 'Water Seepage' in multiple states, involved in coding several rating modules, upload programs, download programs, screen
-  ##                   programs.
-  ##                   Also involved in Production Support activity.
-  technologies: [
-                  COBOL,
-                  JCL,
-                  DB2,
-                  SQL,
-                  UI/UX
+  responsibilities: Working as a Lead Developer, i was involved in requirement gathering, preparing technical specs, impact analysis, development, testing & code deployment activity.
+                    Worked on a project to include a new HOME Coverage 'Water Seepage' in multiple states, involved in coding several rating modules, upload programs, download programs, screen
+                    programs.
+                    Also involved in Production Support activity.
+  # technologies: [
+  #                 COBOL,
+  #                 JCL,
+  #                 DB2,
+  #                 SQL,
+  #                 UI/UX
 
-                ]
+  #               ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
   # images: [
   #   '/assets/images/project_covers/hack-overflow-cover.png'
@@ -48,17 +48,17 @@
   # url: https://levytsroman.github.io/shootThingsGame/
   # github_url: https://github.com/LevytsRoman/shootThingsGame
   description: Legacy Modernization of Mainframe application - Western Star.
-  ## responsibilities: Working as a Sr Developer/SME, i was involved in impact analysis after gathering the requirements & prepared the detail design specification document for the vehicle parts.
-  ##                   Responsible for conducting Weekly Status Meeting, CAB Approvals, Development, Implementation and Testing of the complete business solutions using Mainframe - COBOL, JCL, DB2, SQL, IMS-DB, CICS & Web/ETL technologies. 
-  ##                   Worked on developing the programs & jobs for vehicle engineering bill of materials (BOM), the output of which will be published on Splunk.
+  responsibilities: Working as a Sr Developer/SME, i was involved in impact analysis after gathering the requirements & prepared the detail design specification document for the vehicle parts.
+                    Responsible for conducting Weekly Status Meeting, CAB Approvals, Development, Implementation and Testing of the complete business solutions using Mainframe - COBOL, JCL, DB2, SQL, IMS-DB, CICS & Web/ETL technologies. 
+                    Worked on developing the programs & jobs for vehicle engineering bill of materials (BOM), the output of which will be published on Splunk.
 
-  technologies: [
-                  COBOL,
-                  JCL,
-                  SQL,
-                  SPLUNK,
-                  Web Services
-                ]
+  # technologies: [
+  #                 COBOL,
+  #                 JCL,
+  #                 SQL,
+  #                 SPLUNK,
+  #                 Web Services
+  #               ]
   cover: /assets/images/project_covers/shoot-things-game-cover.png
 #   images: [
 #     '/assets/images/project_covers/shoot-things-game-cover.png'

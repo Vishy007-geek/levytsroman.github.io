@@ -18,7 +18,7 @@
     - class: python-plain
       skill_name: Python
     - class: ruby-plain
-      skill_name: Ruby
+      skill_name: COBOL
 
 - name: databases
   skills:
@@ -27,7 +27,7 @@
     - class: mongodb-plain
       skill_name: MongoDB
     - class: mysql-plain
-      skill_name: MySQL
+      skill_name: DB2
 
 - name: frontend frameworks
   skills:
@@ -71,7 +71,7 @@
     - class: rspec-plain
       skill_name: RSpec
 
-- name: mobile
-  skills:
-    - class: react-original
-      skill_name: React Native
+# - name: mobile
+#   skills:
+#     - class: react-original
+#       skill_name: React Native
