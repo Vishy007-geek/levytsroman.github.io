@@ -1,4 +1,4 @@
-- name: web
+- name: Web
   skills:
     - class: html5-plain
       skill_name: HTML5
@@ -6,72 +6,88 @@
       skill_name: CSS3
     - class: sass-plain
       skill_name: SASS
-    - class: bootstrap-plain
-      skill_name: Bootstrap
+    # - class: bootstrap-plain
+    #   skill_name: Bootstrap
     - class: jquery-plain
       skill_name: jQuery
 
-- name: languages
+- name: Languages
   skills:
-    - class: javascript-plain
-      skill_name: JavaScript
-    - class: python-plain
-      skill_name: Python
     - class: ruby-plain
       skill_name: COBOL
     - class: jcl-plain
       skill_name: JCL
+    - class: pl1-plain
+      skill_name: PL/1
+    - class: pl1-plain
+      skill_name: Easytrieve
+    - class: javascript-plain
+      skill_name: JavaScript
+    - class: python-plain
+      skill_name: Python
 
-- name: databases
+- name: Databases/files
   skills:
     - class: postgresql-plain
-      skill_name: Postgresql
-    - class: mongodb-plain
-      skill_name: MongoDB
-    - class: mysql-plain
       skill_name: DB2
+    - class: mongodb-plain
+      skill_name: VSAM/Flat Files
+    - class: mysql-plain
+      skill_name: IMS-DB
 
-- name: frontend frameworks
+- name: Frontend screens
   skills:
     - class: react-plain
-      skill_name: React
+      skill_name: CICS (Online Transactions)
     - class: angularjs-plain
-      skill_name: Angular
+      skill_name: IMS Screens
     # - class: vuejs-plain
     #   skill_name: Vue
     - class: jekyll-plain
       skill_name: Jekyll
 
-- name: backend frameworks
+- name: Tools
   skills:
     - class: rails-plain
-      skill_name: Ruby-on-Rails
+      skill_name: IBM Mainframe Tools/Utilities
     - class: express-original
-      skill_name: Express
+      skill_name: IBM RDz - Rational Developer
     - class: nodejs-plain
-      skill_name: NodeJS
+      skill_name: Splunk, JIRA, Remedy, HP QC
     - class: django-plain
-      skill_name: Django
+      skill_name: Postman
+    - class: django-plain
+      skill_name: Topaz Workbench
+    - class: IBM-plain
+      skill_name: ETL 
+    - class: IBM-plain
+      skill_name: VS Code
 
-- name: devops
+- name: Devops/Cloud
   skills:
     - class: git-plain
       skill_name: Git
     - class: github-plain
       skill_name: GitHub
     - class: heroku-original
-      skill_name: Heroku
+      skill_name: MQ Series
     - class: docker-plain
-      skill_name: Docker
+      skill_name: AWS/Open Shift
+    - class: docker-plain
+      skill_name: Jenkins
 
-- name: testing
+- name: Machine Learning
   skills:
     - class: mocha-plain
-      skill_name: Mocha
+      skill_name: Supervised & Un-Supervised Learning
     - class: jasmine-plain
-      skill_name: Jasmine
+      skill_name: Decision Trees, Random Forest, Gradient Descent
     - class: rspec-plain
-      skill_name: RSpec
+      skill_name: Natual Language Processing - NLP
+    - class: rspec-plain
+      skill_name: Neural Networks - CNN & RNN 
+    - class: rspec-plain
+      skill_name: Re-inforcement Learning
 
 # - name: mobile
 #   skills:
