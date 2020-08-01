@@ -19,6 +19,8 @@
       skill_name: Python
     - class: ruby-plain
       skill_name: COBOL
+    - class: jcl-plain
+      skill_name: JCL
 
 - name: databases
   skills:
@@ -35,8 +37,8 @@
       skill_name: React
     - class: angularjs-plain
       skill_name: Angular
-    - class: vuejs-plain
-      skill_name: Vue
+    # - class: vuejs-plain
+    #   skill_name: Vue
     - class: jekyll-plain
       skill_name: Jekyll
 
