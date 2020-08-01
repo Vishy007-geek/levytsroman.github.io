@@ -10,12 +10,12 @@ about:
   words: Hi, I'm a Sr IT Consultant
   class: m5 about
   border: about
-# about:
-#   url: /ML
-#   heading: ML/AI Projects
-#   words: List of ML projects
-#   class: m5 ML
-#   border: ML
+ml:
+  url: /ml
+  heading: Machine Learning
+  words: ML & Neural Network projects
+  class: m5 ML
+  border: ML
 resume:
   url: /resume
   heading: Resume
