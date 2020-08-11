@@ -1,8 +1,10 @@
 #homepage {
   --color-text: #fff;
-  --color-bg: #000;
+  /* --color-bg: #000; */
+  --color-bg: #af4949;
   --color-link: #f9d77e;
-  --color-link-hover: #fff;
+  /* --color-link-hover: #fff; */
+  --color-link-hover: #af4949;
   --color-info: #efc453;
   --glitch-width: 100vw;
   --glitch-height: 100vh;
