@@ -4,7 +4,7 @@ $font3: "Lobster Two", cursive;
 $font4: "Verdana", sans-serif;
 $color1: #f7f2f293;
 $color2: #36f4f4;
-$color3: #2e294e;
+$color3: #3AFF33;
 $color4: #8e5586;
 
 $color6: #2929294b;
@@ -14,6 +14,7 @@ $text-color: #f2eff0a4;
 $modal-text: #fcf5c7;
 
 $dark-grey: #292929;
+
 $background-color: #d2fcc746;
 
 $cover-color: #b5aef996;
@@ -29,7 +30,7 @@ $cover-color: #b5aef996;
   }
 
   .skill_group {
-    width: 30%;
+    width: 20%;
   }
 }
 
@@ -90,7 +91,7 @@ nav ul li {
 
 .heading {
   color: $dark-grey;
-  font-weight: 200px;
+  font-weight: 400px;
   font-size: 2.3rem;
   font-family: $font1;
 }
@@ -134,7 +135,7 @@ nav ul li {
   font-size: 1.5rem;
   color: $dark-grey;
   font-style: $font2;
-  font-weight: 200;
+  font-weight: 400;
   margin-left: 10px;
 }
 
@@ -180,7 +181,7 @@ nav ul li {
 
 .footer_description_link {
   color: $text_color;
-  font-weight: 300;
+  font-weight: 400;
   font-style: italic;
   transition: color 0.5s linear;
 }
@@ -376,7 +377,7 @@ button.fill:hover:before {
 }
 
 .project {
-  width: 90%;
+  width: 80%;
   height: 400px;
   margin: auto;
   margin-top: 40px;
@@ -385,12 +386,12 @@ button.fill:hover:before {
 
 .skill_icon {
   color: $modal-text;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .about_skill_icon {
   color: $dark-grey;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .box {
   height: 50vh;
