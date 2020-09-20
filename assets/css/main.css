@@ -23,6 +23,7 @@
   --blend-color-4: transparent;
   --blend-color-5: #af4949; }
 
+
 .glitch__img {
   position: absolute;
   width: 100%;
@@ -299,14 +300,19 @@
     z-index: 10; }
   #homepage .about {
     background-image: url("/assets/images/me.jpg");
-    background-size: cover;
+    /* background-size: cover; */
+    background-size: contain;
+    background-repeat: no-repeat;
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.9);
     transition: box-shadow 0.5s linear; }
   #homepage .projects {
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.9);
     transition: box-shadow 0.5s linear;
     background-image: url("/assets/images/projects.jpg");
-    background-size: cover; }
+    /* background-size: cover;  */
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
   #homepage .projects:hover {
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.6); }
   #homepage .contact a {
