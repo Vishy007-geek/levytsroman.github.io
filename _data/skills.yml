@@ -13,11 +13,11 @@
 
 - name: Languages
   skills:
-    - class: ruby-plain
+    - class: devicon-devicon-plain
       skill_name: COBOL
-    - class: jcl-plain
+    - class: devicon-devicon-plain
       skill_name: JCL
-    - class: pl1-plain
+    - class: devicon-devicon-plain
       skill_name: PL/1
     - class: pl1-plain
       skill_name: Easytrieve
